@@ -1,6 +1,6 @@
 <view class="page" xmlns:wx="http://www.w3.org/1999/xhtml">
   <view class="page__bd">
-    <view class="app_title">BBBUG</view>
+    <view class="app_title">锋迷聊天室</view>
     <view class="app_desc">请先登录后再进入音乐聊天室</view>
     <form bindsubmit="formSubmit" bindreset="formReset">
       <view class="weui-cells weui-cells_after-title">

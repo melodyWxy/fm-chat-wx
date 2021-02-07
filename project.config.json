@@ -21,9 +21,8 @@
     "checkSiteMap": true,
     "uploadWithSourceMap": true,
     "compileHotReLoad": false,
-    "useMultiFrameRuntime": true,
+    "useMultiFrameRuntime": false,
     "useApiHook": true,
-    "useApiHostProcess": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -41,8 +40,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.8.3",
-  "appid": "wx0a68e695b54ffb4c",
-  "projectname": "BBBUG",
+  "appid": "wx3d4450f50c2530a2",
+  "projectname": "锋迷聊天室",
   "debugOptions": {
     "hidedInDevtools": []
   },
